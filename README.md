@@ -5,9 +5,9 @@ Todos los excel han sido creados con excel, pero son totalmente compatibles con 
 
 Falta PEC4 INGLES/ pec3 SRI
 
-Comprobar BBDD y Empresa
+Comprobar BBDD
 
 
-Excel Bloqueados (Seguridad, Redes,SSOO,IAW)
+Excel Bloqueados (Seguridad, Redes,SSOO,IAW,EIE)
 
-Excel NO BLOQUEADOS (BBDD, Ingles, Empresa, SRI) --> A falta de completar con pecs
+Excel NO BLOQUEADOS (BBDD, Ingles,SRI) --> A falta de completar con pecs
