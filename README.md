@@ -1,13 +1,12 @@
 # ASIR_UNED_AVANZADO
 Test de ASIR UNED
 
-Todos los excel han sido creados con excel, pero son totalmente compatibles con libreoffice version 6.x o superior (A excepcion de las condiciones que son exclusivas de EXCEL). 
+Todos los excel han sido creados con excel, si alguien lo utiliza con libreoffice es posible que alguna respuesta se la encuentre movida
 
-Falta PEC4 INGLES/ pec3 SRI
+Las ultimas pecs añadidas y comprobadas
 
-Comprobar BBDD
+Ficheros bloqueados.
+
+BUENA SUERTE EN LOS EXAMENES :-)
 
 
-Excel Bloqueados (Seguridad, Redes,SSOO,IAW,EIE)
-
-Excel NO BLOQUEADOS (BBDD, Ingles,SRI) --> A falta de completar con pecs
